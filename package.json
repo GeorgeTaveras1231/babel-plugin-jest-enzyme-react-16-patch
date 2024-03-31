@@ -5,6 +5,7 @@
   "repository": {
     "url": "https://github.com/GeorgeTaveras1231/babel-plugin-jest-enzyme-react-16-patch"
   },
+  "license": "MIT",
   "scripts": {
     "test": "jest"
   },
