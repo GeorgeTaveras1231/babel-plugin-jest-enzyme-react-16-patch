@@ -1,6 +1,7 @@
 {
   "name": "babel-plugin-jest-enzyme-react-16-patch",
   "packageManager": "yarn@4.1.1",
+  "version": "1.0.0",
   "scripts": {
     "test": "jest"
   },
