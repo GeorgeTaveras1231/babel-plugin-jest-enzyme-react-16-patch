@@ -2,6 +2,9 @@
   "name": "babel-plugin-jest-enzyme-react-16-patch",
   "packageManager": "yarn@4.1.1",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/GeorgeTaveras1231/babel-plugin-jest-enzyme-react-16-patch"
+  },
   "scripts": {
     "test": "jest"
   },
